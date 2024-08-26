@@ -20,7 +20,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/clothes-ecommerce-website.git
+git clone https://github.com/yourusername/E-commerce-Shop-project.git
 Navigate to the project directory:
 
 bash
